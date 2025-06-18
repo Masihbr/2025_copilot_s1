@@ -1,0 +1,31 @@
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode> cd server && npm install
+npm error code ETARGET
+npm error notarget No matching version found for ts-node-dev@^3.0.0.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\masih\AppData\Local\npm-cache\_logs\2025-06-18T20_31_30_196Z-debug-0.log       
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server> cd server && npm install
+Set-Location: Cannot find path 'C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server\server' because it does not exist.
+PS C:\Users\^Csih\Projects\Copilot_1Prompt_VSCode\server>
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server> cd ./server && npm install
+Set-Location: Cannot find path 'C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server\server' because it does not exist.
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server> cd c:\Users\masih\Projects\Copilot_1Prompt_VSCode\server && npm install
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+prior to v9 are no longer supported
+
+added 193 packages, and audited 194 packages in 5s
+
+26 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server> npm install nanoid
+
+added 1 package, and audited 195 packages in 1s
+
+27 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\masih\Projects\Copilot_1Prompt_VSCode\server>
